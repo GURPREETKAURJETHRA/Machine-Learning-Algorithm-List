@@ -1,5 +1,5 @@
 # Machine Learning Algorithm List
-**Machine Learning Path**
+**Machine Learning Path 2022**
 
 ![img](https://elephantscale.com/wp-content/uploads/2020/06/learning-path-ML-v2-watermarked-1024x639.png)
 
